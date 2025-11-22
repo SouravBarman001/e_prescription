@@ -39,6 +39,9 @@ dependencies:
   pdf: ^3.10.0
   printing: ^5.11.0
   intl: ^0.19.0
+  go_router: ^17.0.0
+  flutter_screenutil: ^5.9.3
+  font_awesome_flutter: ^10.12.0
 
 
 dev_dependencies:
@@ -66,6 +69,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/data/medicine.json
+    - assets/icons/google.png
     - assets/logo.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
